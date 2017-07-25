@@ -20,8 +20,11 @@ UX and functionality:
 
   - Landing screen is login page
   - After login, user sees two modules: 'module1' and 'module2' (we can change the names later)
-  - 'module1' allows user to see a graph that has not been classified by the ML algo as having the WR 'bump' or not
+  - 'module1' allows user to see a graph that has not been classified by the ML algo as having the WR 'bump' or not and allows them to classify it
   - 'module2' allows user to see a graph that has already been classified by the ML algo and can verify that 
   it does have the WR 'bump'
  
+'module1' will have a graph and a simple 'yes' or 'no' form for WR bump
 
+'module2' will have a graph with title 'classified WR' or 'classified NOT WR' and simple form to confirm or deny
+classification
