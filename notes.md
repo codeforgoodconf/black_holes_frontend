@@ -14,7 +14,7 @@ be found using a neural net. Using machine learning to find the WR bump in graph
 graphs from the He II graphs. Thus we will have a list of galaxies with He II and no WR stars, leaving us with galaxies 
 that have 'fossil' black holes.
 
-# What's Important For the Frontend
+# MVP (work on during event)
 
 UX and functionality:
 
