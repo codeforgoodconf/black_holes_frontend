@@ -17,7 +17,7 @@ jupyter-core==4.3.0
 Mako==1.0.7
 MarkupSafe==1.0
 nbformat==4.3.0
-numpy==1.13.1
+numpy==1.21.0
 plotly==2.0.12
 psycopg2==2.7.3
 py==1.4.34
